@@ -1,5 +1,5 @@
-Docker: Utilização prática no cenário de Microsserviços
-Denilson Bonatti, Instrutor - Digital Innovation One
+Docker: Practical use in a Microservices scenario.
+Denilson Bonatti, Instructor - Digital Innovation One
 
 DESCRIÇÃO
 
